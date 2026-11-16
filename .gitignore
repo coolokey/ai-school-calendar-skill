@@ -1,0 +1,7 @@
+.clasp.json
+node_modules/
+scratch/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
